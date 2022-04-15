@@ -1,3 +1,7 @@
+## Development Team
+  - Ioannis Kapetangeorgis ([giannhskp](https://github.com/giannhskp))
+  - Dimitrios Sitaras ([sitaras](https://github.com/Sitaras))
+
 # Project 2 - Time Series
 
 Neighbor Search and Clustering for Time-Series and Vectors using Locality-sensitive hashing and Randomized Projection to Hypercube.
